@@ -1,0 +1,4 @@
+<?
+trait parts_conf {
+}
+
